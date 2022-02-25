@@ -23,3 +23,5 @@ git branch：查看所有分支
 git checkout：切换分支
 
 git branch 《分支名》：新建分支
+
+git push origin master：推送最新更改
