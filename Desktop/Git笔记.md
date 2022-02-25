@@ -26,4 +26,4 @@ git branch 《分支名》：新建分支
 
 git push origin master：推送最新更改
 
-git pull origin 《分支名》：拉去最新的文件
+git pull 《远程主机名》 《远程分支名》：拉取远程制定分支的更新并直接合并
